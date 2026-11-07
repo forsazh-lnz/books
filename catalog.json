@@ -1,1 +1,485 @@
-[]
+[
+ {
+  "id": "aeecdcd1112bd09",
+  "title": "Алгебра",
+  "subject": "algebra",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, М. Якір",
+  "body": "",
+  "pages": 275,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-algebra-250.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-algebra-250.pdf",
+  "file_size": 4120051,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-algebra-250.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "21e80d118269df1",
+  "title": "Біологія",
+  "subject": "biology",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "П. Балан, О. Козленко, О. Кулініч, Л. Юрченко, Л. Остапченко",
+  "body": "",
+  "pages": 308,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-biology-254.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-biology-254.pdf",
+  "file_size": 21123241,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-biology-254.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "82c9e8471366dda",
+  "title": "Всесвітня історія",
+  "subject": "history_world",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Гісем, О. Мартинюк, О. Сирцова",
+  "body": "",
+  "pages": 260,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-history-world-260.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-history-world-260.pdf",
+  "file_size": 51384591,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-history-world-260.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "e1e5c99f0eda4f4",
+  "title": "Географія",
+  "subject": "geography",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "В. Бойко, С. Міхелі",
+  "body": "",
+  "pages": 291,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-geography-265.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-geography-265.pdf",
+  "file_size": 39790091,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geography-265.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "ad3c3f7edaf6b23",
+  "title": "Геометрія",
+  "subject": "geometry",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, М. Якір",
+  "body": "",
+  "pages": 243,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-geometry-271.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-geometry-271.pdf",
+  "file_size": 4391805,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geometry-271.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "3700cc5ff0b9a26",
+  "title": "Громадянська освіта",
+  "subject": "civics",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "І. Васильків, В. Кравчук, І. Танчин",
+  "body": "",
+  "pages": 68,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-civics-273.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-civics-273.pdf",
+  "file_size": 17253152,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-civics-273.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "f76c113be25e429",
+  "title": "Зарубіжна література",
+  "subject": "world_lit",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "Н. Міляновська, Е. Міляновський, Л. Сич",
+  "body": "",
+  "pages": 307,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-world-lit-278.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-world-lit-278.pdf",
+  "file_size": 21691223,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-world-lit-278.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "40ddab87639f090",
+  "title": "Здоров’я, безпека та добробут",
+  "subject": "health",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "С. Василенко, Л. Колотій",
+  "body": "",
+  "pages": 209,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-health-280.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-health-280.pdf",
+  "file_size": 27390167,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-health-280.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "1cd3390ef80125a",
+  "title": "Інформатика",
+  "subject": "it",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Бондаренко, В. Ластовецький, О. Пилипчук, Є. Шестопалов",
+  "body": "",
+  "pages": 278,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-it-338.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-it-338.pdf",
+  "file_size": 10899282,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-it-338.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "8d5ccf22efd2ad8",
+  "title": "Історія України",
+  "subject": "history_ua",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Галімов, О. Гісем, О. Мартинюк, О. Сирцова",
+  "body": "",
+  "pages": 276,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-history-ua-344.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-history-ua-344.pdf",
+  "file_size": 42869275,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-history-ua-344.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "b49c05530cf4e85",
+  "title": "Мистецтво",
+  "subject": "arts",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "Л. Масол",
+  "body": "",
+  "pages": 261,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-arts-292.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-arts-292.pdf",
+  "file_size": 25600168,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-arts-292.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "982bb3fbebd65dc",
+  "title": "Підприємництво і фінансова грамотність",
+  "subject": "business",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "В. Ролік, Л. Войтицька, О. Тригуб",
+  "body": "",
+  "pages": 131,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-business-307.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-business-307.pdf",
+  "file_size": 7795001,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-business-307.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "83dd51fbf03fca2",
+  "title": "Технології",
+  "subject": "tech",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "І. Ходзицька, О. Горобець, О. Медвідь та ін.",
+  "body": "",
+  "pages": 258,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-tech-314.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-tech-314.pdf",
+  "file_size": 30214010,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-tech-314.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "e2bad67c68991a5",
+  "title": "Українська література",
+  "subject": "ukr_lit",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Авраменко",
+  "body": "",
+  "pages": 208,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-ukr-lit-318.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-ukr-lit-318.pdf",
+  "file_size": 37778339,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-ukr-lit-318.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "f6bccfdffb9f1c6",
+  "title": "Українська мова",
+  "subject": "ukr_lang",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Заболотний, В. Заболотний",
+  "body": "",
+  "pages": 292,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-ukr-lang-326.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-ukr-lang-326.pdf",
+  "file_size": 9723365,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-ukr-lang-326.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "7b0f618fdb103b4",
+  "title": "Фізика",
+  "subject": "physics",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "За редакцією С. Довгого",
+  "body": "",
+  "pages": 294,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-physics-331.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-physics-331.pdf",
+  "file_size": 28901874,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-physics-331.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "7ade2396922eb48",
+  "title": "Хімія",
+  "subject": "chemistry",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Григорович, О. Недоруб",
+  "body": "",
+  "pages": 326,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-chemistry-334.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-chemistry-334.pdf",
+  "file_size": 26084077,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-chemistry-334.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "fde7659b828183f",
+  "title": "Біологія",
+  "subject": "biology",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "К. Задорожний, Г. Ягенська, В. Додь",
+  "body": "",
+  "pages": 260,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-biology-364.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-biology-364.pdf",
+  "file_size": 55328650,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-biology-364.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "db2581dfd2e2631",
+  "title": "Українська література",
+  "subject": "ukr_lit",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Авраменко",
+  "body": "",
+  "pages": 332,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-ukr-lit-423.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-ukr-lit-423.pdf",
+  "file_size": 29605378,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-ukr-lit-423.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "db456e5c9cdf7bc",
+  "title": "Українська мова",
+  "subject": "ukr_lang",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Заболотний, В. Заболотний",
+  "body": "",
+  "pages": 277,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-ukr-lang-431.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-ukr-lang-431.pdf",
+  "file_size": 11143673,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-ukr-lang-431.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "3df8c674c6c1d70",
+  "title": "Хімія",
+  "subject": "chemistry",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Григорович, О. Недоруб",
+  "body": "",
+  "pages": 277,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-chemistry-436.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-chemistry-436.pdf",
+  "file_size": 43101997,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-chemistry-436.jpg",
+  "created": "2026-11-07 17:40:28.000Z",
+  "updated": "2026-11-07 17:40:44.000Z"
+ }
+]
