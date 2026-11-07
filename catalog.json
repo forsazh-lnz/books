@@ -23,6 +23,29 @@
   "updated": "2026-11-07 17:40:44.000Z"
  },
  {
+  "id": "d93926198bcb917",
+  "title": "Алгебра (поглиблене вивчення)",
+  "subject": "algebra",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 384,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-algebra-algebra-pogl.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-algebra-algebra-pogl.pdf",
+  "file_size": 50165685,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-algebra-algebra-pogl.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
   "id": "21e80d118269df1",
   "title": "Біологія",
   "subject": "biology",
@@ -63,10 +86,10 @@
   "file_url": "https://forsazh-lnz.github.io/books/files/8-history-world-260.pdf",
   "file_type": "application/pdf",
   "file_name": "8-history-world-260.pdf",
-  "file_size": 51384591,
+  "file_size": 51830898,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-history-world-260.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 18:31:29.000Z"
  },
  {
   "id": "e1e5c99f0eda4f4",
@@ -86,10 +109,10 @@
   "file_url": "https://forsazh-lnz.github.io/books/files/8-geography-265.pdf",
   "file_type": "application/pdf",
   "file_name": "8-geography-265.pdf",
-  "file_size": 39790091,
+  "file_size": 39938519,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geography-265.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 18:31:29.000Z"
  },
  {
   "id": "ad3c3f7edaf6b23",
@@ -113,6 +136,29 @@
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geometry-271.jpg",
   "created": "2026-11-07 17:40:28.000Z",
   "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "a8e3981c22e661b",
+  "title": "Геометрія (поглиблене вивчення)",
+  "subject": "geometry",
+  "type": "textbook",
+  "grades": [
+   "8"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 224,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/8-geometry-geometriya-pogl.pdf",
+  "file_type": "application/pdf",
+  "file_name": "8-geometry-geometriya-pogl.pdf",
+  "file_size": 25945972,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geometry-geometriya-pogl.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
  },
  {
   "id": "3700cc5ff0b9a26",
@@ -316,10 +362,10 @@
   "file_url": "https://forsazh-lnz.github.io/books/files/8-ukr-lit-318.pdf",
   "file_type": "application/pdf",
   "file_name": "8-ukr-lit-318.pdf",
-  "file_size": 37778339,
+  "file_size": 44625880,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-ukr-lit-318.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 18:31:29.000Z"
  },
  {
   "id": "f6bccfdffb9f1c6",
@@ -391,6 +437,29 @@
   "updated": "2026-11-07 17:40:44.000Z"
  },
  {
+  "id": "2ab0da30bd9357e",
+  "title": "Алгебра (поглиблене вивчення)",
+  "subject": "algebra",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 420,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-algebra-algebra-pogl.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-algebra-algebra-pogl.pdf",
+  "file_size": 7466581,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-algebra-algebra-pogl.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:31:29.000Z"
+ },
+ {
   "id": "fde7659b828183f",
   "title": "Біологія",
   "subject": "biology",
@@ -408,10 +477,56 @@
   "file_url": "https://forsazh-lnz.github.io/books/files/9-biology-364.pdf",
   "file_type": "application/pdf",
   "file_name": "9-biology-364.pdf",
-  "file_size": 55328650,
+  "file_size": 55514890,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-biology-364.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 18:31:29.000Z"
+ },
+ {
+  "id": "256b5bcf9e54e57",
+  "title": "Всесвітня історія",
+  "subject": "history_world",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Гісем, О. Мартинюк, О. Сирцова",
+  "body": "",
+  "pages": 241,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-history-world-vsesv-istoriya-gisem.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-history-world-vsesv-istoriya-gisem.pdf",
+  "file_size": 87037545,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-history-world-vsesv-istoriya-gisem.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "009c4f69f7c26e5",
+  "title": "Геометрія (поглиблене вивчення)",
+  "subject": "geometry",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 304,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-geometry-geometriya-pogl.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-geometry-geometriya-pogl.pdf",
+  "file_size": 3697086,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-geometry-geometriya-pogl.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
  },
  {
   "id": "db2581dfd2e2631",
@@ -431,10 +546,10 @@
   "file_url": "https://forsazh-lnz.github.io/books/files/9-ukr-lit-423.pdf",
   "file_type": "application/pdf",
   "file_name": "9-ukr-lit-423.pdf",
-  "file_size": 29605378,
+  "file_size": 30635809,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-ukr-lit-423.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 18:31:29.000Z"
  },
  {
   "id": "db456e5c9cdf7bc",
@@ -460,6 +575,29 @@
   "updated": "2026-11-07 17:40:44.000Z"
  },
  {
+  "id": "8839ee24b5429b2",
+  "title": "Фізика",
+  "subject": "physics",
+  "type": "textbook",
+  "grades": [
+   "9"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "За редакцією С. Довгого",
+  "body": "",
+  "pages": 291,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/9-physics-fizyka-baryakhtar.pdf",
+  "file_type": "application/pdf",
+  "file_name": "9-physics-fizyka-baryakhtar.pdf",
+  "file_size": 34337705,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/9-physics-fizyka-baryakhtar.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
   "id": "3df8c674c6c1d70",
   "title": "Хімія",
   "subject": "chemistry",
@@ -481,5 +619,396 @@
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-chemistry-436.jpg",
   "created": "2026-11-07 17:40:28.000Z",
   "updated": "2026-11-07 17:40:44.000Z"
+ },
+ {
+  "id": "2a8ccb67f11ce00",
+  "title": "Алгебра і початки аналізу",
+  "subject": "algebra",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, Д. Номіровський, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 400,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-algebra-algebra-prof.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-algebra-algebra-prof.pdf",
+  "file_size": 6632801,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-algebra-algebra-prof.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:31:29.000Z"
+ },
+ {
+  "id": "e68b725e691e02a",
+  "title": "Алгебра і початки аналізу (поглиблене вивчення)",
+  "subject": "algebra",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, Д. Номіровський, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 512,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-algebra-algebra-pogl.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-algebra-algebra-pogl.pdf",
+  "file_size": 9557292,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-algebra-algebra-pogl.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:31:29.000Z"
+ },
+ {
+  "id": "a8a0ce922414f3d",
+  "title": "Біологія і екологія (профільний рівень)",
+  "subject": "biology",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "К. Задорожний, О. Утєвська",
+  "body": "",
+  "pages": 240,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-biology-biol-ekol-prof-zadorozhnyi.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-biology-biol-ekol-prof-zadorozhnyi.pdf",
+  "file_size": 26332104,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-biology-biol-ekol-prof-zadorozhnyi.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "06d6caa9338da37",
+  "title": "Біологія і екологія (рівень стандарту)",
+  "subject": "biology",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "В. Соболь",
+  "body": "",
+  "pages": 272,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-biology-biol-ekol-stand-sobol.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-biology-biol-ekol-stand-sobol.pdf",
+  "file_size": 19597419,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-biology-biol-ekol-stand-sobol.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "27a66365f6d0766",
+  "title": "Біологія і екологія (рівень стандарту)",
+  "subject": "biology",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "Л. Остапченко, П. Балан, Т. Компанець",
+  "body": "",
+  "pages": 192,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-biology-biol-ekol-stand-ostapchenko.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-biology-biol-ekol-stand-ostapchenko.pdf",
+  "file_size": 9094132,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-biology-biol-ekol-stand-ostapchenko.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "2adb3cdbb254227",
+  "title": "Всесвітня історія",
+  "subject": "history_world",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "Т. Ладиченко",
+  "body": "",
+  "pages": 160,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-history-world-vsesv-istoriya-ladychenko.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-history-world-vsesv-istoriya-ladychenko.pdf",
+  "file_size": 6154309,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-history-world-vsesv-istoriya-ladychenko.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:31:29.000Z"
+ },
+ {
+  "id": "74279e310b7d44d",
+  "title": "Геометрія",
+  "subject": "geometry",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, Д. Номіровський, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 240,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-geometry-geometriya-prof.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-geometry-geometriya-prof.pdf",
+  "file_size": 3543606,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-geometry-geometriya-prof.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:31:29.000Z"
+ },
+ {
+  "id": "f0b14bf3e20ddea",
+  "title": "Геометрія (поглиблене вивчення)",
+  "subject": "geometry",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "А. Мерзляк, Д. Номіровський, В. Полонський, М. Якір",
+  "body": "",
+  "pages": 272,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-geometry-geometriya-pogl.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-geometry-geometriya-pogl.pdf",
+  "file_size": 4999540,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-geometry-geometriya-pogl.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "b57ba0ada42e401",
+  "title": "Громадянська освіта",
+  "subject": "civics",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Гісем, О. Мартинюк",
+  "body": "",
+  "pages": 192,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-civics-gromad-osvita-gisem.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-civics-gromad-osvita-gisem.pdf",
+  "file_size": 8415149,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-civics-gromad-osvita-gisem.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "b69618b4c48c388",
+  "title": "Зарубіжна література",
+  "subject": "world_lit",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Ніколенко, О. Орлова, Л. Ковальова",
+  "body": "",
+  "pages": 208,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-world-lit-zarub-lit-nikolenko.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-world-lit-zarub-lit-nikolenko.pdf",
+  "file_size": 13608290,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-world-lit-zarub-lit-nikolenko.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "395f1bdacd3f760",
+  "title": "Захист України",
+  "subject": "defense",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "І. Гарасимів, К. Пашко, М. Фука, Ю. Щирба",
+  "body": "",
+  "pages": 256,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-defense-zakhyst-stand-gerasymiv.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-defense-zakhyst-stand-gerasymiv.pdf",
+  "file_size": 4333130,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-defense-zakhyst-stand-gerasymiv.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "ac9b1b3ef852b60",
+  "title": "Історія України",
+  "subject": "history_ua",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Гісем, О. Мартинюк",
+  "body": "",
+  "pages": 240,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-history-ua-istoriya-ukr-gisem.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-history-ua-istoriya-ukr-gisem.pdf",
+  "file_size": 3780734,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-history-ua-istoriya-ukr-gisem.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "41e1d1a021bb46c",
+  "title": "Українська література",
+  "subject": "ukr_lit",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Авраменко, В. Пахаренко",
+  "body": "",
+  "pages": 256,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-ukr-lit-ukr-lit-stand-avramenko-pakharenko.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-ukr-lit-ukr-lit-stand-avramenko-pakharenko.pdf",
+  "file_size": 18907866,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-ukr-lit-ukr-lit-stand-avramenko-pakharenko.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "445bb11cc1ffb0c",
+  "title": "Українська мова",
+  "subject": "ukr_lang",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "О. Авраменко",
+  "body": "",
+  "pages": 208,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-ukr-lang-ukr-mova-avramenko.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-ukr-lang-ukr-mova-avramenko.pdf",
+  "file_size": 11506603,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-ukr-lang-ukr-mova-avramenko.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "e59b1001d42da45",
+  "title": "Фізика (профільний рівень)",
+  "subject": "physics",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "Т. Засєкіна, Д. Засєкін",
+  "body": "",
+  "pages": 304,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-physics-fizyka-prof-zasekina.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-physics-fizyka-prof-zasekina.pdf",
+  "file_size": 16504246,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-physics-fizyka-prof-zasekina.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "0288d6eaf1e5121",
+  "title": "Хімія",
+  "subject": "chemistry",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "П. Попель, Л. Крикля",
+  "body": "",
+  "pages": 256,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-chemistry-khimiya-stand-popel.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-chemistry-khimiya-stand-popel.pdf",
+  "file_size": 3394208,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-chemistry-khimiya-stand-popel.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
+ },
+ {
+  "id": "455b55bae3428a1",
+  "title": "Хімія (профільний рівень)",
+  "subject": "chemistry",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "Л. Величко",
+  "body": "",
+  "pages": 296,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-chemistry-khimiya-velychko.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-chemistry-khimiya-velychko.pdf",
+  "file_size": 3609516,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-chemistry-khimiya-velychko.jpg",
+  "created": "2026-11-07 18:19:28.000Z",
+  "updated": "2026-11-07 18:19:28.000Z"
  }
 ]
