@@ -759,6 +759,29 @@
   "updated": "2026-11-07 18:31:29.000Z"
  },
  {
+  "id": "353c70129225e2c",
+  "title": "Географія",
+  "subject": "geography",
+  "type": "textbook",
+  "grades": [
+   "10"
+  ],
+  "sections": [
+   "library"
+  ],
+  "description": "С. Кобернік, Р. Коваленко",
+  "body": "",
+  "pages": 256,
+  "published": true,
+  "file_url": "https://forsazh-lnz.github.io/books/files/10-geography-geografiya-kobernik.pdf",
+  "file_type": "application/pdf",
+  "file_name": "10-geography-geografiya-kobernik.pdf",
+  "file_size": 16395564,
+  "cover_url": "https://forsazh-lnz.github.io/books/covers/10-geography-geografiya-kobernik.jpg",
+  "created": "2026-11-07 19:13:46.000Z",
+  "updated": "2026-11-07 19:13:46.000Z"
+ },
+ {
   "id": "74279e310b7d44d",
   "title": "Геометрія",
   "subject": "geometry",
