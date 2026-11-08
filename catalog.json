@@ -20,7 +20,8 @@
   "file_size": 4120051,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-algebra-250.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "d93926198bcb917",
@@ -43,7 +44,8 @@
   "file_size": 50165685,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-algebra-algebra-pogl.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": true
  },
  {
   "id": "21e80d118269df1",
@@ -66,7 +68,8 @@
   "file_size": 21123241,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-biology-254.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "82c9e8471366dda",
@@ -89,7 +92,8 @@
   "file_size": 51830898,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-history-world-260.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "e1e5c99f0eda4f4",
@@ -112,7 +116,8 @@
   "file_size": 39938519,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geography-265.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "ad3c3f7edaf6b23",
@@ -135,7 +140,8 @@
   "file_size": 4391805,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geometry-271.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "a8e3981c22e661b",
@@ -158,7 +164,8 @@
   "file_size": 25945972,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-geometry-geometriya-pogl.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": true
  },
  {
   "id": "3700cc5ff0b9a26",
@@ -181,7 +188,8 @@
   "file_size": 17253152,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-civics-273.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "f76c113be25e429",
@@ -204,7 +212,8 @@
   "file_size": 21691223,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-world-lit-278.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "40ddab87639f090",
@@ -227,7 +236,8 @@
   "file_size": 27390167,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-health-280.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "1cd3390ef80125a",
@@ -250,7 +260,8 @@
   "file_size": 10899282,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-it-338.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "8d5ccf22efd2ad8",
@@ -273,7 +284,8 @@
   "file_size": 42869275,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-history-ua-344.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "b49c05530cf4e85",
@@ -296,7 +308,8 @@
   "file_size": 25600168,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-arts-292.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "982bb3fbebd65dc",
@@ -319,7 +332,8 @@
   "file_size": 7795001,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-business-307.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "83dd51fbf03fca2",
@@ -342,7 +356,8 @@
   "file_size": 30214010,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-tech-314.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "e2bad67c68991a5",
@@ -365,7 +380,8 @@
   "file_size": 44625880,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-ukr-lit-318.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "f6bccfdffb9f1c6",
@@ -388,7 +404,8 @@
   "file_size": 9723365,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-ukr-lang-326.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "7b0f618fdb103b4",
@@ -411,7 +428,8 @@
   "file_size": 28901874,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-physics-331.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "7ade2396922eb48",
@@ -434,7 +452,8 @@
   "file_size": 26084077,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/8-chemistry-334.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "2ab0da30bd9357e",
@@ -457,7 +476,8 @@
   "file_size": 7466581,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-algebra-algebra-pogl.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "fde7659b828183f",
@@ -480,7 +500,8 @@
   "file_size": 55514890,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-biology-364.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "256b5bcf9e54e57",
@@ -503,7 +524,8 @@
   "file_size": 87037545,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-history-world-vsesv-istoriya-gisem.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "009c4f69f7c26e5",
@@ -526,7 +548,8 @@
   "file_size": 3697086,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-geometry-geometriya-pogl.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "db2581dfd2e2631",
@@ -549,7 +572,8 @@
   "file_size": 30635809,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-ukr-lit-423.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "db456e5c9cdf7bc",
@@ -572,7 +596,8 @@
   "file_size": 11143673,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-ukr-lang-431.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "8839ee24b5429b2",
@@ -595,7 +620,8 @@
   "file_size": 34337705,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-physics-fizyka-baryakhtar.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "3df8c674c6c1d70",
@@ -618,7 +644,8 @@
   "file_size": 43101997,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/9-chemistry-436.jpg",
   "created": "2026-11-07 17:40:28.000Z",
-  "updated": "2026-11-07 17:40:44.000Z"
+  "updated": "2026-11-07 17:40:44.000Z",
+  "mono": false
  },
  {
   "id": "2a8ccb67f11ce00",
@@ -641,7 +668,8 @@
   "file_size": 6632801,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-algebra-algebra-prof.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "e68b725e691e02a",
@@ -664,7 +692,8 @@
   "file_size": 9557292,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-algebra-algebra-pogl.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": true
  },
  {
   "id": "a8a0ce922414f3d",
@@ -687,7 +716,8 @@
   "file_size": 26332104,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-biology-biol-ekol-prof-zadorozhnyi.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "06d6caa9338da37",
@@ -710,7 +740,8 @@
   "file_size": 19597419,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-biology-biol-ekol-stand-sobol.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "27a66365f6d0766",
@@ -733,7 +764,8 @@
   "file_size": 9094132,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-biology-biol-ekol-stand-ostapchenko.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "2adb3cdbb254227",
@@ -756,7 +788,8 @@
   "file_size": 6154309,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-history-world-vsesv-istoriya-ladychenko.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "353c70129225e2c",
@@ -779,7 +812,8 @@
   "file_size": 16395564,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-geography-geografiya-kobernik.jpg",
   "created": "2026-11-07 19:13:46.000Z",
-  "updated": "2026-11-07 19:13:46.000Z"
+  "updated": "2026-11-07 19:13:46.000Z",
+  "mono": false
  },
  {
   "id": "74279e310b7d44d",
@@ -802,7 +836,8 @@
   "file_size": 3543606,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-geometry-geometriya-prof.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:31:29.000Z"
+  "updated": "2026-11-07 18:31:29.000Z",
+  "mono": false
  },
  {
   "id": "f0b14bf3e20ddea",
@@ -825,7 +860,8 @@
   "file_size": 4999540,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-geometry-geometriya-pogl.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "b57ba0ada42e401",
@@ -848,7 +884,8 @@
   "file_size": 8415149,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-civics-gromad-osvita-gisem.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "b69618b4c48c388",
@@ -871,7 +908,8 @@
   "file_size": 13608290,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-world-lit-zarub-lit-nikolenko.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "395f1bdacd3f760",
@@ -894,7 +932,8 @@
   "file_size": 4333130,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-defense-zakhyst-stand-gerasymiv.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "ac9b1b3ef852b60",
@@ -917,7 +956,8 @@
   "file_size": 3780734,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-history-ua-istoriya-ukr-gisem.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": true
  },
  {
   "id": "41e1d1a021bb46c",
@@ -940,7 +980,8 @@
   "file_size": 18907866,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-ukr-lit-ukr-lit-stand-avramenko-pakharenko.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": true
  },
  {
   "id": "445bb11cc1ffb0c",
@@ -963,7 +1004,8 @@
   "file_size": 11506603,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-ukr-lang-ukr-mova-avramenko.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "e59b1001d42da45",
@@ -986,7 +1028,8 @@
   "file_size": 16504246,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-physics-fizyka-prof-zasekina.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "0288d6eaf1e5121",
@@ -1009,7 +1052,8 @@
   "file_size": 3394208,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-chemistry-khimiya-stand-popel.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  },
  {
   "id": "455b55bae3428a1",
@@ -1032,6 +1076,7 @@
   "file_size": 3609516,
   "cover_url": "https://forsazh-lnz.github.io/books/covers/10-chemistry-khimiya-velychko.jpg",
   "created": "2026-11-07 18:19:28.000Z",
-  "updated": "2026-11-07 18:19:28.000Z"
+  "updated": "2026-11-07 18:19:28.000Z",
+  "mono": false
  }
 ]
